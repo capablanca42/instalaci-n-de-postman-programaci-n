@@ -1,0 +1,27 @@
+{
+  "name": "apniversidad",
+  "version": "1.0.0",
+  "description": "API de servicios universitarios",
+  "main": "sevrer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ejemplo api rest, croud"
+  },
+  "keywords": [
+    "ejemplo",
+    "api",
+    "croud"
+  ],
+  "author": "Jandry Zambrano Palacios",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "spress": "^0.1.2"
+  }
+}
